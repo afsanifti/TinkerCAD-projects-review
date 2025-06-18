@@ -1,3 +1,4 @@
+# Solar System Tracker Using Arduino and LDR
 Link: [Solar System Tracker - YouTube](https://www.youtube.com/watch?v=WvijIBj12nI&list=PLWqnlHhsmcI4eBDLBtaZs16XZq0WL1SlP&index=40)
 
 ### Components

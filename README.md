@@ -9,4 +9,4 @@
 - Provided a detailed explanation of **how the circuit and code work together** to achieve the desired behavior.
 
 ### Table of Contents
-* [[Solar System Using Arduino And LDR]]
+- [Solar System Tracker Using Arduino](Solar%20System%20Tracker/README.md)

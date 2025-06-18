@@ -12,14 +12,14 @@ This project demonstrates how different values of potentiometer can light up dif
 - 250 kΩ Potentiometer (x1)
 
 ### Circuit View
-![[led-patter-1.png]]
+![led-patter-1](led-pattern-1.png)
 
 ### Component Placement and Explanation
 - **LEDs:** Each LED have a 220$\Omega$ resistor attached to cathode to limit the current flowing through them.
 -  **Potentiometer:** This is a 250k$\Omega$ potetiometer. Different voltages can be measured by rotating the dial from the range of 0 - 1023 through `analogRead()` 
 
 ### Circuit Schematic
-![[led-pattern-schematic.png]]
+![schematic](led-pattern-schematic.png)
 
 ### Code Explanation
 ```cpp

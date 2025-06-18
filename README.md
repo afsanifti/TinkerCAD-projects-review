@@ -7,3 +7,6 @@
 - Explained the purpose of each **function**, **variable**, and **hardware component**.
 - **Rebuilt the circuit diagrams** independently using my understanding of the wiring.
 - Provided a detailed explanation of **how the circuit and code work together** to achieve the desired behavior.
+
+### Table of Contents
+* [[Solar System Using Arduino And LDR]]

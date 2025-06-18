@@ -32,14 +32,14 @@ void setup() {
 }
 
 void loop() {
-	if (value == 0) {
-		// all LED off
-	} else if (//0 < value <= 250) {
-		// only LED6 & LED5 on
-	} else if (// 251 <= value < 500) {
-		// LED6, LED5, LED4 and LED3 on
-	} else if (// value >= 501) {
-		// all LEDs are on
-	}
+    if (value == 0) {
+	// all LED off
+    } else if (//0 < value <= 250) {
+	// only LED6 & LED5 on
+    } else if (// 251 <= value < 500) {
+	// LED6, LED5, LED4 and LED3 on
+    } else if (// value >= 501) {
+	// all LEDs are on
+    }
 }
 ```

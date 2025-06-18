@@ -26,7 +26,7 @@ This project demonstrates how different values of potentiometer can light up dif
 // defined the LED pins
 
 void setup() {
-	value = analogRead(pot) // potentiometer value
+    value = analogRead(pot) // potentiometer value
     Serial.println(9600); // to monitor the change in value of potentiometer
     // defined OUTPUT pins
 }

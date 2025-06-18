@@ -9,4 +9,6 @@
 - Provided a detailed explanation of **how the circuit and code work together** to achieve the desired behavior.
 
 ### Table of Contents
+- [LED Blink](LED%20Blink/README.md)
+- [LED Pattern Project 1](LED%20Pattern%20Project%201/README.md)
 - [Solar System Tracker Using Arduino](Solar%20System%20Tracker/README.md)

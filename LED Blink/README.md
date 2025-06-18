@@ -15,3 +15,25 @@ Video Link: [Learn to blink LED in 10 mins!!](https://www.youtube.com/watch?v=xZ
 ### Circuit Schematic
 ![schematic](led-blink-schematic.png)
 
+### Code Explanation
+```cpp
+#define LED_BUILTIN 13  // defined LED pin
+
+void setup()
+{
+  // Defining LED output pin
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop()
+{
+  // Making the LED turn on
+  digitalWrite(LED_BUILTIN, HIGH);
+  // LED on for 1000 miliseconds
+  delay(1000);
+  // Making the LED turn off
+  digitalWrite(LED_BUILTIN, LOW);
+  // LED off for 1000 miliseconds
+  delay(1000);
+}
+```

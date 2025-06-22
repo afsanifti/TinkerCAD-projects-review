@@ -1,4 +1,5 @@
 # Digital Voltmeter
+#### Video Link: [Digital Voltmeter Using Arduino - YouTube](https://youtu.be/8QOBFsRB3Q4?si=zRHVrlljNGq7zB3j)
 
 This circuit shows how to build a digital voltmeter using Arduino UNO and a LCD 16x2 display.
 
@@ -14,7 +15,16 @@ This circuit shows how to build a digital voltmeter using Arduino UNO and a LCD 
 ### Circuit View
 ![alt text](circuit.png)
 
-A voltage divider is used for stepping down the voltage to a safe range for Arduino's analog input. A small percentage of error can be seen due to this reason
+
+### Component Placement and Explaination
+A voltage divider is used for stepping down the voltage to a safe range for Arduino's analog input. A small percentage of error can be seen due to this reason.
+<br>
+The anode of voltmeter is connected to the ![1 mega ohm](https://latex.codecogs.com/svg.image?{\color{White}1M\Omega}) resistor. The voltage gets divided between ![1 mega ohm](https://latex.codecogs.com/svg.image?{\color{White}1M\Omega}) resistor and ![10K ohm](https://latex.codecogs.com/svg.image?{\color{White}10K\Omega}) resistor. That is the point where we draw the analog read point `A0`.
+<br><br>
+Other pins are:
+- RS --> 7
+- E --> 6
+- D4 - D7 --> 5 - 2
 
 ### Circuit Schematic
 ![alt text](circuit_schematic.png)

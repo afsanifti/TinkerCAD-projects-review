@@ -1,5 +1,5 @@
 # LED Blink
-Video Link: [Learn to blink LED in 10 mins!!](https://www.youtube.com/watch?v=xZ3OWzZEx10&list=PLWqnlHhsmcI4eBDLBtaZs16XZq0WL1SlP&index=38)
+#### Video Link: [Learn to blink LED in 10 mins!!](https://www.youtube.com/watch?v=xZ3OWzZEx10&list=PLWqnlHhsmcI4eBDLBtaZs16XZq0WL1SlP&index=38)
 
 ### Components
 - Arduino Uno R3 (x1)

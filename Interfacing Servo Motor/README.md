@@ -1,4 +1,5 @@
 # Interfacing Servo Motor with Arduino
+#### Video Link: [Interfacing Servo Motor Using Arduino - YouTube](https://youtu.be/_tsl8B3Mrdg?si=_ANjfLLF38wADA7E)
 
 This circuit shows how a servo is connected to a Arduino and how the PWM controls the rotation of a servo
 

@@ -1,4 +1,5 @@
 # Controlling RGB LED with PWM
+#### Video Link: [Controlling RGB LED with PWM in TinkerCAD - YouTube](https://youtu.be/Y5wmQkrL2Fc?si=Tfy5397p2mQw3NWU)
 
 This circuit shows how we can control RGB LED with Arduino PWM output
 

@@ -1,5 +1,5 @@
 ## LED Pattern Project 1
-Video Link: [LED Pattern Project](https://www.youtube.com/watch?v=gFbouXJXPo0&list=PLWqnlHhsmcI4eBDLBtaZs16XZq0WL1SlP&index=39)
+#### Video Link: [LED Pattern Project](https://www.youtube.com/watch?v=gFbouXJXPo0&list=PLWqnlHhsmcI4eBDLBtaZs16XZq0WL1SlP&index=39)
 
 This project demonstrates how different values of potentiometer can light up different patterns in LEDs. 
 

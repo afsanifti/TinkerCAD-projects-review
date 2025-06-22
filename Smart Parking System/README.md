@@ -1,5 +1,5 @@
 # Smart Parking System Using Arduino
-Video Link: [Smart Parking System Using Arduino || TinkerCAD](https://www.youtube.com/watch?v=1LM8OSCCthE&list=PLWqnlHhsmcI4eBDLBtaZs16XZq0WL1SlP&index=37)
+#### Video Link: [Smart Parking System Using Arduino || TinkerCAD](https://www.youtube.com/watch?v=1LM8OSCCthE&list=PLWqnlHhsmcI4eBDLBtaZs16XZq0WL1SlP&index=37)
 
 This is a simple Smart Car Parking system that uses a LCD display to show if the car slots are taken or not. Also there are sensors for cars to enter and leave using servos to use as gates.
 
@@ -13,6 +13,22 @@ This is a simple Smart Car Parking system that uses a LCD display to show if the
 
 ### Circuit View
 ![alt text](circuit.png)
+
+### Compnent Placement and Explanation
+Two IRs are used as entry and exit sensor. Other two are used for parking slot.<br>
+A potentiometer has been used to control the contrast to LCD display. The pins are connected as following:
+- RS --> 7
+- E --> 6
+- D4 - D7 --> 5 - 2
+- V0 --> Potentiometer
+
+Other pins are:
+- Servo 1 --> 9
+- Servo 2 --> 8
+- IR_entry --> 10
+- IR_Slot1 --> 11
+- IR_Slot2 --> 12
+- IR_Exit --> 13
 
 
 ### Circuit Schematic

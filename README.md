@@ -11,6 +11,7 @@
 ### Table of Contents
 - [Digital Voltmeter](Digital%20Voltmeter/README.md)
 - [DIY Calculator](DIY%20Calculator/README.md)
+- [Fire Alarm System](Fire%20Alarm%20System/README.md)
 - [Interfacing Servo Motor](Interfacing%20Servo%20Motor/README.md)
 - [Interfacing Temperature Sensor](Interfacing%20Temperature%20Senor/README.md)
 - [Interfacing Ultrasonic Sensor](Interfacing%20Ultrasonic%20Sensor/README.md)

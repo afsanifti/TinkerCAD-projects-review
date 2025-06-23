@@ -21,6 +21,7 @@
 - [LED Blink](LED%20Blink/README.md)
 - [LED Pattern Project 1](LED%20Pattern%20Project%201/README.md)
 - [Light Intensity With LDR](Light%20Intensity%20With%20LDR/README.md)
+- [Motion Controlled Color Changer](Motion%20Controlled%20Color%20Changer/README.md)
 - [Password Protected Security System](Password%20Security%20System/README.md)
 - [Piano](Piano/README.md)
 - [RGB LED control with PWM](RGB%20control%20with%20PWM/README.md)

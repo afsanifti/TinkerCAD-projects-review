@@ -17,6 +17,7 @@
 - [Interfacing Ultrasonic Sensor](Interfacing%20Ultrasonic%20Sensor/README.md)
 - [LED Blink](LED%20Blink/README.md)
 - [LED Pattern Project 1](LED%20Pattern%20Project%201/README.md)
+- [Light Intensity With LDR](Light%20Intensity%20With%20LDR/README.md)
 - [RGB LED control with PWM](RGB%20control%20with%20PWM/README.md)
 - [Servo Motor With IR Remote](Servo%20Motor%20With%20IR%20Remote/README.md)
 - [Smart Parking System](Smart%20Parking%20System/README.md)

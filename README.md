@@ -12,6 +12,7 @@
 - [Digital Voltmeter](Digital%20Voltmeter/README.md)
 - [DIY Calculator](DIY%20Calculator/README.md)
 - [Interfacing Servo Motor](Interfacing%20Servo%20Motor/README.md)
+- [Interfacing Temperature Sensor](Interfacing%20Temperature%20Senor/README.md)
 - [LED Blink](LED%20Blink/README.md)
 - [LED Pattern Project 1](LED%20Pattern%20Project%201/README.md)
 - [RGB LED control with PWM](RGB%20control%20with%20PWM/README.md)

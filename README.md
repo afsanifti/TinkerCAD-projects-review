@@ -9,6 +9,7 @@
 - Provided a detailed explanation of **how the circuit and code work together** to achieve the desired behavior.
 
 ### Table of Contents
+- [Controlling LEDs with IR Remote](Controlling%20LEDs%20with%20IR%20Remote/README.md)
 - [Digital Voltmeter](Digital%20Voltmeter/README.md)
 - [DIY Calculator](DIY%20Calculator/README.md)
 - [Fire Alarm System](Fire%20Alarm%20System/README.md)

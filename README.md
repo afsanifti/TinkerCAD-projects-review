@@ -29,3 +29,4 @@
 - [Smart Parking System](Smart%20Parking%20System/README.md)
 - [Solar System Tracker Using Arduino](Solar%20System%20Tracker/README.md)
 - [Thermometer Using ATtiny85](Thermometer%20Using%20ATtiny85/README.md)
+- [Traffic Lights](Traffic%20Lights/README.md)

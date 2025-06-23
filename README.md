@@ -9,6 +9,7 @@
 - Provided a detailed explanation of **how the circuit and code work together** to achieve the desired behavior.
 
 ### Table of Contents
+- [Capacitor Meter Using Arduino](Capacitance%20Meter%20Using%20Arduino%20/README.md)
 - [Controlling LEDs with IR Remote](Controlling%20LEDs%20with%20IR%20Remote/README.md)
 - [Digital Voltmeter](Digital%20Voltmeter/README.md)
 - [DIY Calculator](DIY%20Calculator/README.md)

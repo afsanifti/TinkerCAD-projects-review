@@ -27,6 +27,7 @@
 - [Interfacing TMP36 with ATtiny85](Interfacing%20TMP36%20with%20ATtiny85/README.md)
 - [Interfacing Ultrasonic Sensor](Interfacing%20Ultrasonic%20Sensor/README.md)
 - [LED Blink](LED%20Blink/README.md)
+- [LED Flowing Lights](LED%20Flowing%20Lights/README.md)
 - [LED Pattern Project 1](LED%20Pattern%20Project%201/README.md)
 - [Light Intensity With LDR](Light%20Intensity%20With%20LDR/README.md)
 - [Mini Piano](Mini%20Piano/README.md)

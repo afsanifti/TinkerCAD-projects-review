@@ -15,6 +15,7 @@
 - [Dimmer Circuit](Dimmer%20Circuit/README.md)
 - [DIY Calculator](DIY%20Calculator/README.md)
 - [Fire Alarm System](Fire%20Alarm%20System/README.md)
+- [Interfacing LCD Display with ATtiny85](Interfacing%20LCD%20with%20ATtiny85/README.md)
 - [Interfacing Neopixel Strip](Interfacing%20Neopixel%20Strip/README.md)
 - [Interfacing Photodiode](Interfacing%20Photodiode/README.md)
 - [Interfacing Servo Motor](Interfacing%20Servo%20Motor/README.md)

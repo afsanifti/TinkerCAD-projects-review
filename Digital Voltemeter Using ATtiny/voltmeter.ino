@@ -9,9 +9,9 @@ const unsigned char DIGS[11]={
 0x6D,   0x7D,   0x07,   0x7F,   0x6F,   0x40
 };
 
-unsigned char DISP[3]={0,0,0};
+unsigned char DISP[3] = {0 , 0, 0};
 boolean flag = 0;
-unsigned char period=0;
+unsigned char period = 0;
 
 //====================================================
 //====================================================
@@ -42,7 +42,7 @@ void setup()
   OCR0B=0x00;
 
   // Timer/Counter 0 Interrupt(s) initialization
-  TIMSK0=(1<<OCIE0A);
+  TIMSK=(1<<OCIE0A);
 
   // ADC initialization
   // ADC Clock frequency: 75.000 kHz

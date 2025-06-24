@@ -19,6 +19,7 @@
 - [Interfacing Photodiode](Interfacing%20Photodiode/README.md)
 - [Interfacing Servo Motor](Interfacing%20Servo%20Motor/README.md)
 - [Interfacing Temperature Sensor](Interfacing%20Temperature%20Senor/README.md)
+- [Interfacing TMP36 with ATtiny85](Interfacing%20TMP36%20with%20ATtiny85/README.md)
 - [Interfacing Ultrasonic Sensor](Interfacing%20Ultrasonic%20Sensor/README.md)
 - [LED Blink](LED%20Blink/README.md)
 - [LED Pattern Project 1](LED%20Pattern%20Project%201/README.md)

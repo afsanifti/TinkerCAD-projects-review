@@ -23,6 +23,7 @@
 - [Interfacing LCD Display with ATtiny85](Interfacing%20LCD%20with%20ATtiny85/README.md)
 - [Interfacing Neopixel Strip](Interfacing%20Neopixel%20Strip/README.md)
 - [Interfacing Photodiode](Interfacing%20Photodiode/README.md)
+- [Interfacing PIR Sensor ALT](Interfacing%20PIR%20Senosr%20ALT/README.md)
 - [Interfacing PIR Sensor](Interfacing%20PIR%20Sensor/README.md)
 - [Interfacing Servo Motor](Interfacing%20Servo%20Motor/README.md)
 - [Interfacing Temperature Sensor](Interfacing%20Temperature%20Senor/README.md)

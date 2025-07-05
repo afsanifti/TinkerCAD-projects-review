@@ -35,7 +35,7 @@ Output:
 -  PIR Sensor
 
 ### Circuit View
-![alt text](image.png)
+![alt text](circuit.png)
 
 ### Circuit Schematic
-![alt text](image.png)
+![alt text](circuit_schematic.png)

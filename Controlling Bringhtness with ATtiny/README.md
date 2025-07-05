@@ -8,7 +8,7 @@
 - 250 kΩ Potentiometer
 
 ### Circuit View
-![alt text](image.png)
+![alt text](circuit.png)
 
 ### Circuit Schematic
-![alt text](image-1.png)
+![alt text](circuit_schematic.png)
